@@ -197,14 +197,14 @@ body {
 @media (max-width:767px) {
 
     .evaluation {
-        margin-top: 70px;
+        margin-top: 40px;
     }
 
     .evaluation .stars {
         position: absolute;
-        bottom: 50%;
         left: 50%;
-        transform: translate(-70%, -10%);
+        transform:translateX(-61%);
+      
     }
 
     .evaluation .reviwe {
@@ -316,7 +316,7 @@ body {
 
 @media(max-width:767px) {
     .cards {
-        padding-top: 0;
+        padding-top: 20px;
 
         margin-top: -170px;
     }
